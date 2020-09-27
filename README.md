@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/215jenna/Twitter/blob/master/Twitter.gif' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/48XJUIUrqsgcEFXTru/giphy.gif' width='' alt='Video Walkthrough' />
 # Project 3 - Twitter
 
 Twitter is a basic twitter app to read your tweets.
